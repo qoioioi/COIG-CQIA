@@ -74,3 +74,13 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 *.vsd filter=lfs diff=lfs merge=lfs -text
 *.vsdx filter=lfs diff=lfs merge=lfs -text
+COIG-CQIA-full.jsonl filter=lfs diff=lfs merge=lfs -text
+wikihow/wikihow.jsonl filter=lfs diff=lfs merge=lfs -text
+wikihow/wikihow_zh_sample_clean_v2.jsonl filter=lfs diff=lfs merge=lfs -text
+wiki/bkmy_medicine.jsonl filter=lfs diff=lfs merge=lfs -text
+finance/mba_baike.jsonl filter=lfs diff=lfs merge=lfs -text
+wikihow/wikihow_zh_sample_clean_v2.json filter=lfs diff=lfs merge=lfs -text
+zhihu/zhihu_score9.0-10.0.json filter=lfs diff=lfs merge=lfs -text
+wikihow/wikihow_zh.sample.json filter=lfs diff=lfs merge=lfs -text
+wiki/bkmy_medicine.json filter=lfs diff=lfs merge=lfs -text
+finance/mba_baike.json filter=lfs diff=lfs merge=lfs -text
